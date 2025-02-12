@@ -1,0 +1,12 @@
+opencv-python
+mediapipe
+numpy
+matplotlib
+reportlab
+tensorflow
+torch
+pytorch-lightning
+scipy
+pyyaml
+scikit-learn
+fpdf
